@@ -1,0 +1,23 @@
+---
+name: Hechos y Reglas
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: prolog
+id_format: "%05d"
+order:
+- 1
+- 2
+- 3
+- 4
+- 8
+- 5
+- 10
+- 11
+- 6
+- 13
+- 7
+- 9
+- 12
+private: false

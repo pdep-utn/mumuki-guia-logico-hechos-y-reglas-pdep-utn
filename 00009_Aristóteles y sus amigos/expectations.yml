@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mortal
+  inspection: HasUsage:hombre
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mortal
+  inspection: HasArity:1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hombre
+  inspection: HasBinding

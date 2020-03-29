@@ -1,0 +1,2 @@
+apareceEnPinturaSurrealista(rodolfoSegundo).
+personajeDeCuentoSurrealista(mancuspia).
