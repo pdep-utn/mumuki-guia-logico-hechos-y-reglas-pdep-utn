@@ -10,7 +10,7 @@ Como ves, la `,` la usamos para hacer el AND entre dos condiciones.
 
 Incluso podemos hacer consultas en la consola usando `,`. 
 
-> ¡Probalo vos mismo! Hacé las siguientes consultas:
+> ¡Probalo vos! Hacé las siguientes consultas:
 > 
 > * `personajeDeNovela(frodo), personajeDeSerie(drHouse).`
 > * `personajeDeNovela(frodo), personajeDeSerie(eternauta).`
